@@ -11,8 +11,7 @@ url = "https://mirrors.aliyun.com/pypi/simple/"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-numpy = "^1.24.2"
-tqdm = "^4.65.0"
+
 
 
 [build-system]
